@@ -1,0 +1,6 @@
+analytics.spotify.com
+adeventtracker.spotify.com
+crashdump.spotify.com
+desktop.spotify.com
+log.spotify.com
+ads-fa.spotify.com
