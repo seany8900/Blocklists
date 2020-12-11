@@ -8,3 +8,5 @@ bounceexchange.com
 bs.serving-sys.com
 content.bitsontherun.com
 core.insightexpressai.com
+spclient.wg.spotify.com
+heads-fa.spotify.com
